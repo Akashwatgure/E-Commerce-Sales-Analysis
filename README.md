@@ -24,7 +24,7 @@ This analysis focuses on visualizing and interpreting the performance of an e-co
 Forecasting models are implemented to estimate future sales and profit, assisting decision-makers in planning for upcoming business cycles. The goal is to identify underperforming areas, improve shipment efficiency, and align marketing or discount strategies with actual customer and product data.
 
 ---
-
+![Sales](https://github.com/Akashwatgure/E-Commerce-Sales-Analysis/blob/main/Sales%20and%20Profit%20-%20Ecommerce.png)
 ## 📌 Key Insights & Business Findings
 
 - Historical trends in sales and profit reveal seasonal fluctuations and a gradual decline in key metrics in recent years. Forecasting tools help estimate expected performance in the next fiscal period.
